@@ -23,3 +23,17 @@ To install PIP type in the following in cmd:
 The pip will successfully installed
 
 <img src="https://user-images.githubusercontent.com/88296638/128589280-930e139b-fe49-4e2a-a779-613b2c3bd56c.png" alt="pip" style="zoom: 67%;" width=400px/>
+
+## Verify Installation
+
+Once you’ve installed PIP, you can test whether the installation has been successful by typing the following:
+
+```pip help```
+
+If pip is installed, you will see this:
+
+<img src="https://user-images.githubusercontent.com/88296638/128589359-da435caf-cc19-44cf-9071-4a188eedc97d.png" alt="pip" style="zoom: 67%;" width=400px/>
+
+If you receive an error, repeat the installation process.
+
+<hr>
