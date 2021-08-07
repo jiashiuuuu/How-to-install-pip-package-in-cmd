@@ -4,7 +4,7 @@
 
 You don't need to install anything if you try our exe version application.
 
-<a href="https://github.com/jiashiuuuu/Home-Loan-Calculator" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128589877-f375659d-afca-4f46-bb12-2cf47fbf4d6b.png" width=500px></a>
+<a href="https://github.com/jiashiuuuu/Home-Loan-Calculator" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128590566-5edf3279-8920-458d-bdd2-c7f8f473ece3.png" width=500px></a>
 
 <hr>
 
