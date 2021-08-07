@@ -5,6 +5,8 @@
 
 [1]:https://github.com/jiashiuuuu/Home-Loan-Calculator/blob/main/Home%20Loan%20Calculator%20Installer%20by%20Jiashiuuu.exe?raw=true
 
+<a href="https://github.com/jiashiuuuu/Home-Loan-Calculator" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128593916-4030f9b5-f166-429c-92d9-2e1328f783e5.png" width=500px></a>
+
 <hr>
 
 ### 💡 Make sure you download pip first 
