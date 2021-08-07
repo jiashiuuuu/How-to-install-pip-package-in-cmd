@@ -1,5 +1,11 @@
 # How-to-install-pip-package-in-cmd
 
+🔔You are recommended to download our software instead of the original python source code.
+
+You don't need to install anything if you try our exe version application.
+
+<a href="https://github.com/jiashiuuuu/Home-Loan-Calculator" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128589877-f375659d-afca-4f46-bb12-2cf47fbf4d6b.png" width=500px></a>
+
 <hr>
 
 ### 💡 Make sure you download pip first 
@@ -62,4 +68,11 @@ To install pathlib in Python using pip, open command prompt or terminal and run 
 
 ```pip install pathlib```
 
+<hr>
+
+### Done ~
+
+Thank you for supporting our system.
+
+![bt21-cooky](https://user-images.githubusercontent.com/88296638/128589977-a0978c56-7100-47ad-b967-6bebc551e2db.gif)
 
