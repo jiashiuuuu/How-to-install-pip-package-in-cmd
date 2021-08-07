@@ -37,3 +37,29 @@ If pip is installed, you will see this:
 If you receive an error, repeat the installation process.
 
 <hr>
+
+## Installing package
+
+To run my home loan system, you need to install pillow and pathlib from pip.
+
+### PIL (pip install pillow)
+
+To install pillow in Python using pip, open command prompt or terminal and run the following command.
+
+```pip install pillow```
+
+You will see this in your cmd.
+
+```
+C:\workspace\python>pip install Pillow
+Collecting Pillow
+Installing collected packages: Pillow
+Successfully installed Pillow-5.4.1
+```
+### Pathlib 
+
+To install pathlib in Python using pip, open command prompt or terminal and run the following command.
+
+```pip install pathlib```
+
+
