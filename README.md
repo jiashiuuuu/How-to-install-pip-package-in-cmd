@@ -1,10 +1,9 @@
 # How-to-install-pip-package-in-cmd
 
-🔔You are recommended to download our software instead of the original python source code.
+🔔You are recommended to download [our software][1] instead of the original python source code.
+😊You don't need to install anything if you try our exe version application.
 
-You don't need to install anything if you try our exe version application.
-
-<a href="https://github.com/jiashiuuuu/Home-Loan-Calculator" target="_blank"><img src="https://user-images.githubusercontent.com/88296638/128590566-5edf3279-8920-458d-bdd2-c7f8f473ece3.png" width=500px></a>
+[1]:https://github.com/jiashiuuuu/Home-Loan-Calculator/blob/main/Home%20Loan%20Calculator%20Installer%20by%20Jiashiuuu.exe?raw=true
 
 <hr>
 
