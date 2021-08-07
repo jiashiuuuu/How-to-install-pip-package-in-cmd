@@ -75,3 +75,12 @@ Thank you for supporting our system.
 
 ![bt21-cooky](https://user-images.githubusercontent.com/88296638/128589977-a0978c56-7100-47ad-b967-6bebc551e2db.gif)
 
+<hr>
+
+### 📫✉ Contact 
+
+<img src="https://user-images.githubusercontent.com/88296638/128593821-95b5d0c1-2ab3-4c2e-a900-8f6ffc5139c4.gif" alt="pip" style="zoom: 67%;" width=200px/>
+
+If you face any problems to run my system or unable to download the pip packages, feel free to reach me at jiashiu135@gmail.com
+
+
